@@ -1,7 +1,7 @@
 # Todo Management Application
 
 ## Overview
-This is a  web application to manage todos within projects. It allows users to create new projects, manage todos within projects (add, edit, update, mark as complete), and export project summaries as gists on GitHub.
+This is a  web application to manage todos within projects. It allows users to create new projects, manage todos within projects (add, edit, update, mark as complete).
 
 ## Setup Instructions
 1. Clone this repository.
@@ -21,5 +21,4 @@ This is a  web application to manage todos within projects. It allows users to c
 - Java
 - Spring Boot
 - Oracle
-- JavaScript
-- React
+
